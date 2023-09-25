@@ -26,22 +26,22 @@ Here are some screenshots:
 
 serverGUI:
 
-![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/serverSS.png?raw=true)
+![](https://github.com/njulka17/ChatORA/blob/main/screenshots/serverSS.png?raw=true)
 
 clientGUI:
 
-![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/clientSS.png?raw=true)
+![](https://github.com/njulka17/ChatORA/blob/main/screenshots/clientSS.png?raw=true)
 
-![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS1.png?raw=true)
+![](https://github.com/njulka17/ChatORA/blob/main/screenshots/SS1.png?raw=true)
 
-![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS2.png?raw=true)
+![](https://github.com/njulka17/ChatORA/blob/main/screenshots/SS2.png?raw=true)
 
-![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS3.png?raw=true)
+![](https://github.com/njulka17/ChatORA/blob/main/screenshots/SS3.png?raw=true)
 
-![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS4.png?raw=true)
+![](https://github.com/njulka17/ChatORA/blob/main/screenshots/SS4.png?raw=true)
 
-![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS5.png?raw=true)
+![](https://github.com/njulka17/ChatORA/blob/main/screenshots/SS5.png?raw=true)
 
-![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS6.png?raw=true)
+![](https://github.com/njulka17/ChatORA/blob/main/screenshots/SS6.png?raw=true)
 
-![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS7.png?raw=true)
+![](https://github.com/njulka17/ChatORA/blob/main/screenshots/SS7.png?raw=true)
